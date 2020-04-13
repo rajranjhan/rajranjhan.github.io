@@ -1,6 +1,9 @@
-# [Raj's Resume)
+# Raj's Resume
 
-This is based on [template from](https://startbootstrap.com/template-overviews/resume/) 
+This is based on [template from StatrBootStrap](https://startbootstrap.com/template-overviews/resume/) 
+
+## Preview
+[https://rajranjhan.github.io/](https://rajranjhan.github.io/)
 
 
 #### Gulp Tasks
